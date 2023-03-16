@@ -5,27 +5,6 @@
     <link>https://mueller-peter.github.io/tags/</link>
     <description>Recent content in Tags on Aloha! - Peter Müller</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 14 Mar 2021 15:00:21 +0100</lastBuildDate><atom:link href="https://mueller-peter.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>csharp</title>
-      <link>https://mueller-peter.github.io/tags/csharp/</link>
-      <pubDate>Sun, 14 Mar 2021 15:00:21 +0100</pubDate>
-      
-      <guid>https://mueller-peter.github.io/tags/csharp/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>hello world</title>
-      <link>https://mueller-peter.github.io/tags/hello-world/</link>
-      <pubDate>Sun, 14 Mar 2021 15:00:21 +0100</pubDate>
-      
-      <guid>https://mueller-peter.github.io/tags/hello-world/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
+    <language>en-us</language><atom:link href="https://mueller-peter.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
